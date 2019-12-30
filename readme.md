@@ -19,17 +19,17 @@ Design Patterns in PHP :
 
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
-- 13-Chain Of Responsibility Pattern - Behavioral Pattern
-- 14-Command Pattern - Behavioral Pattern
-- 15-Interpreter Pattern - Behavioral Pattern
-- 16-Interator Pattern - Behavioral Pattern
-- 17-Mediator Pattern - Behavioral Pattern
-- 18-Memento Pattern - Behavioral Pattern
-- 19-Observer Pattern - Behavioral Pattern
-- 20-State Pattern - Behavioral Pattern
-- 21-Strategy Pattern - Behavioral Pattern
-- 22-Template Method Pattern - Behavioral Pattern
-- 23-Visitor Pattern - Behavioral Pattern
+- 13-Chain Of Responsibility Pattern - Behavioural Pattern
+- 14-Command Pattern - Behavioural Pattern
+- 15-Interpreter Pattern - Behavioural Pattern
+- 16-Interator Pattern - Behavioural Pattern
+- 17-Mediator Pattern - Behavioural Pattern
+- 18-Memento Pattern - Behavioural Pattern
+- 19-Observer Pattern - Behavioural Pattern
+- 20-State Pattern - Behavioural Pattern
+- 21-Strategy Pattern - Behavioural Pattern
+- 22-Template Method Pattern - Behavioural Pattern
+- 23-Visitor Pattern - Behavioural Pattern
 
 ## Author
 Aditya Hajare (http://www.adiinviter.com)
